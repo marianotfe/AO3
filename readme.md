@@ -1,0 +1,5 @@
+- 👋🏻 Hello, I’ll be posting the Site Skins I’ve worked on for the Archive
+- 💭 This is my first time coding CSS so hopefully it’s not too messy!
+- ⚠️ You may edit any parts of my code, just don’t claim as your own
+- ✉️ To ensure it runs smoothly, use the Wizard for Font: Avenir, sans-serif
+- 🔍 Also use the Wizard for Font Size adjustments, I have mine at 105
