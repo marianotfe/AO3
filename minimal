@@ -1,0 +1,100 @@
+.heading {
+  font-family: Avenir, sans-serif;
+}
+
+a,
+a:link {
+  border-bottom: none;
+  text-decoration: none;
+}
+
+.meta {
+  font: Avenir, sans-serif;
+}
+
+.splash .news .meta {
+  font: normal 0.857em Avenir, sans-serif;
+}
+
+#header {
+  font-size: 0.875em;
+  margin: 0 0 1em;
+  padding: 0;
+  position: relative;
+}
+
+#header a,
+#header .current,
+#header fieldset,
+#header form,
+#header p,
+#header li,
+#header h1,
+#small_login dl {
+  margin-top: 0.20em;
+  margin-bottom: 0.20em;
+}
+
+#header .menu li {
+  text-align: center;
+}
+
+#header .primary {
+  box-shadow: none;
+  border-bottom: none;
+}
+
+#header .user {
+  margin: 0.3000em;
+  position: relative;
+}
+
+.primary .icon,
+.icon {
+  border-radius: 4em;
+}
+
+.picture .icon img {
+  border-radius: 4em;
+}
+
+.comment div.icon {
+  float: left;
+  margin: 1.000em 0.5625em 0.5625em 0;
+  border-bottom: none;
+}
+
+.datetime {
+  font-size: 0.875em;
+  font-family: Avenir, sans-serif;
+}
+
+.bookmark .datetime {
+  top: 28px;
+  font-size: 0.875em;
+  font-family: Avenir, sans-serif;
+}
+
+.bookmark .user .meta {
+  display: inline;
+  font-family: Avenir, sans-serif;
+  font-size: 0.875em;
+  line-height: 2;
+}
+
+div.preface .title,
+div.preface .byline,
+div.preface .byline a {
+  border: 0;
+  font-family: Avenir, sans-serif;
+  text-align: center;
+  text-decoration: none;
+}
+
+p.kudos {
+  margin: 3.300em 0 1.000em 0;
+}
+
+#footer a {
+  border-bottom: none;
+}
